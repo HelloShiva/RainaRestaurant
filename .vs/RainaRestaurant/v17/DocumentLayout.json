@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shiva\\source\\repos\\RainaRestaurant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7988E77-EB4B-4A60-85AD-B1A905E310A0}|RainaRestaurant\\RainaRestaurant.csproj|c:\\users\\shiva\\source\\repos\\rainarestaurant\\rainarestaurant\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7988E77-EB4B-4A60-85AD-B1A905E310A0}|RainaRestaurant\\RainaRestaurant.csproj|solutionrelative:rainarestaurant\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7988E77-EB4B-4A60-85AD-B1A905E310A0}|RainaRestaurant\\RainaRestaurant.csproj|c:\\users\\shiva\\source\\repos\\rainarestaurant\\rainarestaurant\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7988E77-EB4B-4A60-85AD-B1A905E310A0}|RainaRestaurant\\RainaRestaurant.csproj|solutionrelative:rainarestaurant\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7988E77-EB4B-4A60-85AD-B1A905E310A0}|RainaRestaurant\\RainaRestaurant.csproj|c:\\users\\shiva\\source\\repos\\rainarestaurant\\rainarestaurant\\models\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7988E77-EB4B-4A60-85AD-B1A905E310A0}|RainaRestaurant\\RainaRestaurant.csproj|solutionrelative:rainarestaurant\\models\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7988E77-EB4B-4A60-85AD-B1A905E310A0}|RainaRestaurant\\RainaRestaurant.csproj|c:\\users\\shiva\\source\\repos\\rainarestaurant\\rainarestaurant\\models\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7988E77-EB4B-4A60-85AD-B1A905E310A0}|RainaRestaurant\\RainaRestaurant.csproj|solutionrelative:rainarestaurant\\models\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7988E77-EB4B-4A60-85AD-B1A905E310A0}|RainaRestaurant\\RainaRestaurant.csproj|c:\\users\\shiva\\source\\repos\\rainarestaurant\\rainarestaurant\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7988E77-EB4B-4A60-85AD-B1A905E310A0}|RainaRestaurant\\RainaRestaurant.csproj|solutionrelative:rainarestaurant\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7988E77-EB4B-4A60-85AD-B1A905E310A0}|RainaRestaurant\\RainaRestaurant.csproj|c:\\users\\shiva\\source\\repos\\rainarestaurant\\rainarestaurant\\views\\order\\vieworders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7988E77-EB4B-4A60-85AD-B1A905E310A0}|RainaRestaurant\\RainaRestaurant.csproj|solutionrelative:rainarestaurant\\views\\order\\vieworders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7988E77-EB4B-4A60-85AD-B1A905E310A0}|RainaRestaurant\\RainaRestaurant.csproj|c:\\users\\shiva\\source\\repos\\rainarestaurant\\rainarestaurant\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7988E77-EB4B-4A60-85AD-B1A905E310A0}|RainaRestaurant\\RainaRestaurant.csproj|solutionrelative:rainarestaurant\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7988E77-EB4B-4A60-85AD-B1A905E310A0}|RainaRestaurant\\RainaRestaurant.csproj|c:\\users\\shiva\\source\\repos\\rainarestaurant\\rainarestaurant\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7988E77-EB4B-4A60-85AD-B1A905E310A0}|RainaRestaurant\\RainaRestaurant.csproj|solutionrelative:rainarestaurant\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7988E77-EB4B-4A60-85AD-B1A905E310A0}|RainaRestaurant\\RainaRestaurant.csproj|c:\\users\\shiva\\source\\repos\\rainarestaurant\\rainarestaurant\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7988E77-EB4B-4A60-85AD-B1A905E310A0}|RainaRestaurant\\RainaRestaurant.csproj|solutionrelative:rainarestaurant\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7988E77-EB4B-4A60-85AD-B1A905E310A0}|RainaRestaurant\\RainaRestaurant.csproj|c:\\users\\shiva\\source\\repos\\rainarestaurant\\rainarestaurant\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7988E77-EB4B-4A60-85AD-B1A905E310A0}|RainaRestaurant\\RainaRestaurant.csproj|solutionrelative:rainarestaurant\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7988E77-EB4B-4A60-85AD-B1A905E310A0}|RainaRestaurant\\RainaRestaurant.csproj|c:\\users\\shiva\\source\\repos\\rainarestaurant\\rainarestaurant\\views\\order\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7988E77-EB4B-4A60-85AD-B1A905E310A0}|RainaRestaurant\\RainaRestaurant.csproj|solutionrelative:rainarestaurant\\views\\order\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7988E77-EB4B-4A60-85AD-B1A905E310A0}|RainaRestaurant\\RainaRestaurant.csproj|c:\\users\\shiva\\source\\repos\\rainarestaurant\\rainarestaurant\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7988E77-EB4B-4A60-85AD-B1A905E310A0}|RainaRestaurant\\RainaRestaurant.csproj|solutionrelative:rainarestaurant\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\RainaRestaurant\\RainaRestaurant\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "RainaRestaurant\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\RainaRestaurant\\RainaRestaurant\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "RainaRestaurant\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T17:20:37.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\RainaRestaurant\\RainaRestaurant\\Models\\Repository.cs",
+              "RelativeDocumentMoniker": "RainaRestaurant\\Models\\Repository.cs",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\RainaRestaurant\\RainaRestaurant\\Models\\Repository.cs",
+              "RelativeToolTip": "RainaRestaurant\\Models\\Repository.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAADwv0sAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:12:41.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\RainaRestaurant\\RainaRestaurant\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "RainaRestaurant\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\RainaRestaurant\\RainaRestaurant\\Models\\Order.cs",
+              "RelativeToolTip": "RainaRestaurant\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:10:45.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\RainaRestaurant\\RainaRestaurant\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "RainaRestaurant\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\RainaRestaurant\\RainaRestaurant\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "RainaRestaurant\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T15:48:34.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\RainaRestaurant\\RainaRestaurant\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RainaRestaurant\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\RainaRestaurant\\RainaRestaurant\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RainaRestaurant\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAB4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T15:44:32.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewOrders.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\RainaRestaurant\\RainaRestaurant\\Views\\Order\\ViewOrders.cshtml",
+              "RelativeDocumentMoniker": "RainaRestaurant\\Views\\Order\\ViewOrders.cshtml",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\RainaRestaurant\\RainaRestaurant\\Views\\Order\\ViewOrders.cshtml",
+              "RelativeToolTip": "RainaRestaurant\\Views\\Order\\ViewOrders.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T15:37:03.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\RainaRestaurant\\RainaRestaurant\\Views\\Order\\Create.cshtml",
+              "RelativeDocumentMoniker": "RainaRestaurant\\Views\\Order\\Create.cshtml",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\RainaRestaurant\\RainaRestaurant\\Views\\Order\\Create.cshtml",
+              "RelativeToolTip": "RainaRestaurant\\Views\\Order\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T15:36:15.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\RainaRestaurant\\RainaRestaurant\\Views\\Order\\Cart.cshtml",
+              "RelativeDocumentMoniker": "RainaRestaurant\\Views\\Order\\Cart.cshtml",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\RainaRestaurant\\RainaRestaurant\\Views\\Order\\Cart.cshtml",
+              "RelativeToolTip": "RainaRestaurant\\Views\\Order\\Cart.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T15:31:10.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\RainaRestaurant\\RainaRestaurant\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "RainaRestaurant\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\RainaRestaurant\\RainaRestaurant\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "RainaRestaurant\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAuwAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T15:18:08.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\RainaRestaurant\\RainaRestaurant\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "RainaRestaurant\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\RainaRestaurant\\RainaRestaurant\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "RainaRestaurant\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T12:37:51.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\RainaRestaurant\\RainaRestaurant\\Models\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "RainaRestaurant\\Models\\SessionExtensions.cs",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\RainaRestaurant\\RainaRestaurant\\Models\\SessionExtensions.cs",
+              "RelativeToolTip": "RainaRestaurant\\Models\\SessionExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T12:28:16.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\RainaRestaurant\\RainaRestaurant\\Models\\OrderViewModel.cs",
+              "RelativeDocumentMoniker": "RainaRestaurant\\Models\\OrderViewModel.cs",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\RainaRestaurant\\RainaRestaurant\\Models\\OrderViewModel.cs",
+              "RelativeToolTip": "RainaRestaurant\\Models\\OrderViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T12:31:54.162Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
